@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Roshan",
+  "name": "Profile",
+  "icons": [
+    
+    {
+      "src": "roshan.jpg",
+      "type": "image/png/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "roshan.jpg",
+      "type": "image/png/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
