@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolieo_Profile/static/css/main.3c2bb08d.css",
-    "main.js": "/Portfolieo_Profile/static/js/main.0ec4af11.js",
+    "main.css": "/Portfolieo_Profile/static/css/main.bd464211.css",
+    "main.js": "/Portfolieo_Profile/static/js/main.e01b1f06.js",
     "static/js/496.be0ee718.chunk.js": "/Portfolieo_Profile/static/js/496.be0ee718.chunk.js",
     "static/media/p4.png": "/Portfolieo_Profile/static/media/p4.6f16707a59da3bdc7be6.png",
     "static/media/p1.png": "/Portfolieo_Profile/static/media/p1.e7d270837ee913686d75.png",
@@ -9,12 +9,12 @@
     "static/media/p3.png": "/Portfolieo_Profile/static/media/p3.36156b3bd78dbab6e49b.png",
     "static/media/p2.png": "/Portfolieo_Profile/static/media/p2.1b8298c3de390f2b571a.png",
     "index.html": "/Portfolieo_Profile/index.html",
-    "main.3c2bb08d.css.map": "/Portfolieo_Profile/static/css/main.3c2bb08d.css.map",
-    "main.0ec4af11.js.map": "/Portfolieo_Profile/static/js/main.0ec4af11.js.map",
+    "main.bd464211.css.map": "/Portfolieo_Profile/static/css/main.bd464211.css.map",
+    "main.e01b1f06.js.map": "/Portfolieo_Profile/static/js/main.e01b1f06.js.map",
     "496.be0ee718.chunk.js.map": "/Portfolieo_Profile/static/js/496.be0ee718.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c2bb08d.css",
-    "static/js/main.0ec4af11.js"
+    "static/css/main.bd464211.css",
+    "static/js/main.e01b1f06.js"
   ]
 }
